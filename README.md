@@ -1,6 +1,6 @@
 #Data Science
 
-Technical Skill: SQL, Python, R, Qgis
+Technical Skill: SQL, Python, R, Qgis, Adobe Illustrator, Adobe Indeisgn
 
 ### Education
 S.Tr.Stat, Computional Statistic|Polstat STIS at Indonesia (August, 2019)
